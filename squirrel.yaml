@@ -27,16 +27,30 @@ show_notifications_when: appropriate
 # ascii_mode、inline、no_inline、vim_mode 等等设定
 # 可参考 /Library/Input Methods/Squirrel.app/Contents/SharedSupport/squirrel.yaml
 app_options:
-  # com.apple.Spotlight:
-  #   ascii_mode: true    # 开启默认英文
-  # com.microsoft.VSCode:
-  #   ascii_mode: false   # 关闭默认英文
+  com.apple.Spotlight:
+    ascii_mode: true # 开启默认英文
+  com.microsoft.VSCode:
+    ascii_mode: true # 关闭默认英文
+  com.googlecode.iterm2:
+    ascii_mode: true
+  com.raycast.macos:
+    ascii_mode: true
+  com.jetbrains.pycharm:
+    ascii_mode: true
+  com.blackmagic-design.DaVinciResolve:
+    ascii_mode: true
+  com.apple.finder:
+    ascii_mode: true
+  org.mozilla.firefox:
+    ascii_mode: true
+  dev.warp.Warp-Stable:
+    ascii_mode: true
 
 
 style:
   # 选择皮肤，亮色与暗色主题
-  color_scheme: purity_of_form_custom
-  color_scheme_dark: purity_of_form_custom
+  color_scheme: solarized_light
+  color_scheme_dark: solarized_rock
 
   # 预设选项。如果皮肤没写，则使用这些属性；如果皮肤写了，使用皮肤的。
   text_orientation: horizontal  # horizontal | vertical
@@ -47,14 +61,14 @@ style:
   border_width: 0
   line_spacing: 5
   spacing: 10
-  #candidate_format: '%c. %@'
+  candidate_format: '%c. %@'
   #base_offset: 6
-  font_face: 'Lucida Grande'
-  font_point: 21
-  #label_font_face: 'Lucida Grande'
-  label_font_point: 18
-  #comment_font_face: 'Lucida Grande'
-  comment_font_point: 18
+  font_face: 'Noto Sans'
+  font_point: 15
+  label_font_face: 'Noto Sans'
+  label_font_point: 15
+  comment_font_face: 'Noto Sans'
+  comment_font_point: 15
 
 
 # 皮肤列表
