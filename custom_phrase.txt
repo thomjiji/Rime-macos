@@ -64,3 +64,16 @@ code	code
 SOHO	soho
 
 風間ゆみ	fj
+武田怜香	wt
+葉山さゆり	ys
+宝田もなみ	bt
+神木麗	sm
+Monami Takaradas	mona
+
+校色	js
+校色	jiaose
+视效	shixiao
+静帧	jingzhen
+遮幅	zhefu
+极乐迪斯科	jile
+Disco Elysiu	dis
