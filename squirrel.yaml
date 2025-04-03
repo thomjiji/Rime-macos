@@ -42,7 +42,7 @@ app_options:
   com.apple.finder:
     ascii_mode: true
   org.mozilla.firefox:
-    ascii_mode: true
+    ascii_mode: false
   dev.warp.Warp-Stable:
     ascii_mode: true
   net.freemacsoft.AppCleaner:
@@ -52,6 +52,8 @@ app_options:
   com.jetbrains.CLion-EAP:
     ascii_mode: true
   com.jetbrains.CLion:
+    ascii_mode: true
+  com.apple.Terminal:
     ascii_mode: true
 
 style:
