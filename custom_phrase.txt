@@ -77,3 +77,9 @@ Monami Takaradas	mona
 遮幅	zhefu
 极乐迪斯科	jile
 Disco Elysiu	dis
+Rec.709	rec
+Rec.2020	rec
+Rec.2100	rec
+BT.709	bt
+BT.2020	bt
+BT.2100	bt
